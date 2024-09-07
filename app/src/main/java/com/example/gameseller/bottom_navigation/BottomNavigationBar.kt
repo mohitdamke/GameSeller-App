@@ -49,8 +49,8 @@ fun BottomNavigationBar(
     )
 
     NavigationBar(
-        modifier = modifier
-            .height(70.dp),
+        modifier = modifier.padding(start = 10.dp, end = 10.dp)
+            .height(60.dp),
         containerColor = com.example.gameseller.ui.theme.Gray,
     ) {
         val navBackStackEntry by navController.currentBackStackEntryAsState()
