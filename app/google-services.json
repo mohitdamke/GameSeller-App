@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968015166272",
+    "project_id": "gameseller-eba68",
+    "storage_bucket": "gameseller-eba68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968015166272:android:9458820c3871e075b158a5",
+        "android_client_info": {
+          "package_name": "com.example.gameseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968015166272-p64fsf26cb0qdbmme7ruee4tg0mut0o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gameseller",
+            "certificate_hash": "4d7f2230ee5a09ca7bb11bcd1885574c3128b387"
+          }
+        },
+        {
+          "client_id": "968015166272-sehbhfj7tcifc9376tp231bogoqcnleq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9R-KYc1CSs8-JNv0VTuc7qwjhRCWkP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968015166272-sehbhfj7tcifc9376tp231bogoqcnleq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
